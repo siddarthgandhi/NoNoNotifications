@@ -1,0 +1,9 @@
+Package: es.iflam.nononotifications
+Name: No No Notifications
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iFlames
+Author: iFlames
+Section: Tweaks
